@@ -1,1 +1,3 @@
 Code goes here
+ex: 
+new menu
